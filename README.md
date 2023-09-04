@@ -33,7 +33,7 @@ Details functionality: The details functionality allows users to display for a s
 - Entity Framework
 ```
 
-### **Demo**
+<!-- ### **Demo**
 
 Index
 
@@ -55,7 +55,7 @@ Delete
 
 Details
 
-![Details](https://user-images.githubusercontent.com/114834634/220893887-706bef35-e003-44b3-8fd1-0af3ee745d40.jpeg)
+![Details](https://user-images.githubusercontent.com/114834634/220893887-706bef35-e003-44b3-8fd1-0af3ee745d40.jpeg) -->
 
 
 
